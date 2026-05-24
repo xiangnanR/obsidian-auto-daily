@@ -3,7 +3,7 @@
   "name": "Auto Daily",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Automatically create, open, and pin your daily note on the first launch of each day.（在每天第一次启动时，自动创建、打开、锁定每日笔记）",
+  "description": "Automatically create, open, and pin your daily note on the first launch of each day.",
   "author": "xiangnanR",
   "authorUrl": "https://github.com/xiangnanR",
   "isDesktopOnly": false
